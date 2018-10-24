@@ -38,7 +38,7 @@
         collectable.create(type.grace, 200, 170, 6, 0.7);
         collectable.create(type.steve, 50, 170, 20, 0.7);
         collectable.create(type.max, 550, 70, 3, .3);
-        collectable.create(type.steve, 600, 300, 20, 0.7);
+        collectable.create(type.db, 600, 300, 20, 0.7);
         collectable.create(type.kennedi, 400, 500 ,20, 0.7);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
